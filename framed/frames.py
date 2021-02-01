@@ -1,0 +1,3 @@
+
+class AbstractFrame:
+    pass
